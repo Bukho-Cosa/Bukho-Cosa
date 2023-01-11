@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a student in a Software Development bootcamp at Codespace ZA and will be getting a certificate in December 2022.
+- I am a student in a Software Development bootcamp at Codespace ZA and will be getting a certificate in January 2023.
 
 - I'm really excited to be learning how to code and different coding languages. After starting a web development course on Coursera, I decided to move to Codespace where I could learn in a more structured environment and more languages.
 - My first ever project was making a webpage about myself on Codepen https://codepen.io/BukhoCosa/pen/yLpqNXe and my second a paint canvas https://codepen.io/BukhoCosa/pen/MWQoagz
