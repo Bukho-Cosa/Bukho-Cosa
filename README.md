@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hi there, I'm Bukho 👋</h1>
+# Hi there, I'm Bukho 👋
 
 <b> I'm an Entry-Level Software Developer, getting my certificate of completion from CodeSpace ZA at the end of January. </b>
 <hr>
