@@ -1,6 +1,6 @@
 # Hi there, I'm Bukho 👋
 
-<b> I'm an Entry-Level Software Developer, getting my certificate of completion from CodeSpace ZA at the end of January. </b>
+<b> I'm an Entry-Level Software Developer, I recently graduated from a coding bootcamp with Codespace Academy. </b>
 <hr>
 Check me out on:     .<a href="https://www.linkedin.com/in/bukho-cosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <hr>
